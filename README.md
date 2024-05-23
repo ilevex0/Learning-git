@@ -1,0 +1,1 @@
+# Projeto de exemplo para aprender Git
